@@ -126,6 +126,5 @@ The trained model weight files (`.pth`) are not included because of their large 
 ## Author
 
 Abid Siddique
-Reg No 25-PhD-CE-001
 
 Advance Computer Vision Project
